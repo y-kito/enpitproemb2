@@ -2,4 +2,5 @@
 
 - this is readme file
 - add this line
+- example for a conflict
 - aaa bbb
